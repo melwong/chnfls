@@ -1,6 +1,6 @@
+NOTE: Please ensure your wallet is connected to Avalanche Fuji testnet when testing.
 
-
-**UI Screenshots**
+### UI Screenshots
 
 * [List of file tokens](https://github.com/melwong/chnfls/blob/master/screenshot-chainfiles.cf-2022.01.31-22_09_22.png)
 * [Search engine to search for file tokens](https://github.com/melwong/chnfls/blob/master/screenshot-chainfiles.cf-2022.01.31-22_08_41.png)
